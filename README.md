@@ -1,5 +1,5 @@
 
-VLBConstraintsGenerator is a handy class for working with AutoLayout (by code) on iOS. 
+VLBConstraintsGenerator is a handy class for working with AutoLayout (by code) on iOS. it allows you to add subview to the Left/Right/Above/Under other View, also Center a subview in its superView with scaling of (width/height), Align View(s) Vertically/Horizontally according to main view, and many other useful functions (leading/trailing/Top/Bottom) initializing a View that support autolayout all this in just a few lines of code.
 
 ## How To Get Started
 
