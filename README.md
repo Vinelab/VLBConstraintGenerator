@@ -61,8 +61,11 @@ Pull-requests for bug-fixes and features are welcome!
 If you want to contribute to the project just follow this steps:
 
 Fork the repository.
+
 Clone your fork to your local machine.
+
 Create your feature branch with the appropriate tests.
+
 Commit your changes, push to your fork and submit a pull request.
 
 ## Contact
