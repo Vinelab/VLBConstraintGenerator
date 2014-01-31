@@ -51,9 +51,23 @@ Please see the sample project. also take a look or fuctions comment.
 
 VLBConstraintsGenerator was created by [Ibrahim Kteish](https://github.com/ibrahimkteish/) in the development of a project with [vinelab](http://vinelab.com/).
 
+## Bugs & Feature Requests
+There is no support offered with this component. If you would like a feature or find a bug, please submit a feature request through the [GitHub issue tracker](https://github.com/ibrahimkteish/VLBConstraintGenerator/issues).
+
+Pull-requests for bug-fixes and features are welcome!
+
+##Contributing
+
+If you want to contribute to the project just follow this steps:
+
+Fork the repository.
+Clone your fork to your local machine.
+Create your feature branch with the appropriate tests.
+Commit your changes, push to your fork and submit a pull request.
+
 ## Contact
 
-ibrahimk@vinelab.com
+ibrahimk@vinelab.com or [@Bobj_c](https://twitter.com/Bobj_c)
 
 ## License
 
