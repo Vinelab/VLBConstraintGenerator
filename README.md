@@ -4,6 +4,7 @@ VLBConstraintsGenerator is a handy class for working with AutoLayout (by code) o
 ## How To Get Started
 
 1- Clone the project.
+
 2- Drag the VLBConstraintsGenerator.{h/m} to your project.
 
 Sample Usage here:
@@ -44,7 +45,7 @@ VLBConstraintsGenerator requires Xcode 5, targeting either iOS 6.0 and above,
 
 ## Usage
 
-please see the sample project. also take a look or fuctions comment.
+Please see the sample project. also take a look or fuctions comment.
 
 ## Credits
 
