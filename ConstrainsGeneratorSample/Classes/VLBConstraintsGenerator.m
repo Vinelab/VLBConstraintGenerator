@@ -96,7 +96,7 @@
                                                              toItem:theSuperView
                                                           attribute:NSLayoutAttributeTrailing
                                                          multiplier:1
-                                                           constant:theValue];
+                                                           constant:-(theValue)];
     [theSuperView addConstraint:cn];
 }
 

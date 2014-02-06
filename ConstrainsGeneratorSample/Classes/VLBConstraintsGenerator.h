@@ -181,7 +181,7 @@
 /**
  *  Set The Trailing value of a View
  *
- *  @param theTrailing   The Trailing Value
+ *  @param theTrailing   The Trailing POSITIVE Value the class will make it negative
  *  @param theView       The View
  *  @param theSuperView  View's superview
  */
@@ -190,7 +190,7 @@
 /**
  *  Set the Bottom value of a View
  *
- *  @param theBottom    The Bottom value (should be negative)
+ *  @param theBottom    The Bottom value (shouldn't be negative)
  *  @param theView      The View
  *  @param theSuperView View's superview
  */
@@ -199,7 +199,7 @@
 /**
  *  Set the Bottom value of a View
  *
- *  @param theBottomValue    The Bottom value (should be negative)
+ *  @param theBottomValue    The Bottom value (shouldn't be negative)
  *  @param theView           The View
  *  @param theViewController The ViewController
  */
